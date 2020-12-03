@@ -1,0 +1,8 @@
+# Files
+*.user
+Makefile 
+
+# Visual Studio files and folder
+.vs/
+*.sln
+*.vcxproj*
