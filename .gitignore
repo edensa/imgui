@@ -1,6 +1,10 @@
 ## OSX artifacts
 .DS_Store
 
+# out-of-tree build subdirectory
+bin/*
+bin-int/*
+
 ## Dear ImGui artifacts
 imgui.ini
 
